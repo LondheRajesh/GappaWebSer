@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GappaWebSer", "GappaWebSer\GappaWebSer.csproj", "{DB5BFF42-5B5D-4BC9-90EC-C986B5F4BEAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GappaWebSer.Tests", "GappaWebSer.Tests\GappaWebSer.Tests.csproj", "{B73AC9E2-95BB-4690-92C1-22BD17B8BA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5BFF42-5B5D-4BC9-90EC-C986B5F4BEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5BFF42-5B5D-4BC9-90EC-C986B5F4BEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5BFF42-5B5D-4BC9-90EC-C986B5F4BEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5BFF42-5B5D-4BC9-90EC-C986B5F4BEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B73AC9E2-95BB-4690-92C1-22BD17B8BA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B73AC9E2-95BB-4690-92C1-22BD17B8BA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B73AC9E2-95BB-4690-92C1-22BD17B8BA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B73AC9E2-95BB-4690-92C1-22BD17B8BA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
